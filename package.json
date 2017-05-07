@@ -1,0 +1,22 @@
+{
+  "name": "request",
+  "version": "1.0.0",
+  "description": "SECOND PROJECT ON FCC",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "SECOND",
+    "PROJECT",
+    "REQUEST",
+    "HEADER",
+    "FCC"
+  ],
+  "author": "Kashif",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
